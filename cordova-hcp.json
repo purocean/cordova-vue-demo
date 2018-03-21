@@ -1,0 +1,8 @@
+{
+  "name": "idc",
+  "ios_identifier": "",
+  "android_identifier": "",
+  "update": "resume",
+  "content_url": "http://xxx.xxx",
+  "min_native_interface": 1
+}
