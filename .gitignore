@@ -1,5 +1,6 @@
 node_modules
 .vscode
-build
+/build
+/platforms/**/build
 build.json
 *.log
